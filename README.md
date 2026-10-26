@@ -1,0 +1,2 @@
+# Infosys-Ltd.-Integrated-Financial-Modeling-Valuation-Project
+Developed an integrated financial model for Infosys Ltd. covering FY2022–FY2026 historicals and FY2027–FY2031 forecasts. Includes three-statement modeling, ratio analysis, beta regression, WACC, DCF valuation, comparable company analysis, sensitivity analysis, and football field valuation to assess financial performance and intrinsic value.
